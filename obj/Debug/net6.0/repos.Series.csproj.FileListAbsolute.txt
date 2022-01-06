@@ -1,0 +1,15 @@
+C:\Users\mjbru\source\repos\repos.Series\bin\Debug\net6.0\repos.Series.exe
+C:\Users\mjbru\source\repos\repos.Series\bin\Debug\net6.0\repos.Series.deps.json
+C:\Users\mjbru\source\repos\repos.Series\bin\Debug\net6.0\repos.Series.runtimeconfig.json
+C:\Users\mjbru\source\repos\repos.Series\bin\Debug\net6.0\repos.Series.dll
+C:\Users\mjbru\source\repos\repos.Series\bin\Debug\net6.0\ref\repos.Series.dll
+C:\Users\mjbru\source\repos\repos.Series\bin\Debug\net6.0\repos.Series.pdb
+C:\Users\mjbru\source\repos\repos.Series\obj\Debug\net6.0\repos.Series.csproj.AssemblyReference.cache
+C:\Users\mjbru\source\repos\repos.Series\obj\Debug\net6.0\repos.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjbru\source\repos\repos.Series\obj\Debug\net6.0\repos.Series.AssemblyInfoInputs.cache
+C:\Users\mjbru\source\repos\repos.Series\obj\Debug\net6.0\repos.Series.AssemblyInfo.cs
+C:\Users\mjbru\source\repos\repos.Series\obj\Debug\net6.0\repos.Series.csproj.CoreCompileInputs.cache
+C:\Users\mjbru\source\repos\repos.Series\obj\Debug\net6.0\repos.Series.dll
+C:\Users\mjbru\source\repos\repos.Series\obj\Debug\net6.0\ref\repos.Series.dll
+C:\Users\mjbru\source\repos\repos.Series\obj\Debug\net6.0\repos.Series.pdb
+C:\Users\mjbru\source\repos\repos.Series\obj\Debug\net6.0\repos.Series.genruntimeconfig.cache
